@@ -1,5 +1,5 @@
 # Java_Ejemplos_1
-Ejemplos Java utilizados en mis clases en la universidad<br>
+Ejemplos Java utilizados en las clases que imparto en la universidad<br>
 <br>
 Ejemplos disponibles:<br>
 <br>
