@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"a_Pide_y_muestra_numero"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"b_Area_y_perimetro"}];updateSearchResults();
+packageSearchIndex = [{"l":"a_Pide_y_muestra_numero"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"b_Area_y_perimetro"},{"l":"c_Media_aritmetica"}];updateSearchResults();

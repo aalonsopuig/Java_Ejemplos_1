@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"a_Pide_y_muestra_numero","l":"Main"},{"p":"b_Area_y_perimetro","l":"Main"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"a_Pide_y_muestra_numero","l":"Main"},{"p":"b_Area_y_perimetro","l":"Main"},{"p":"c_Media_aritmetica","l":"Main"}];updateSearchResults();
