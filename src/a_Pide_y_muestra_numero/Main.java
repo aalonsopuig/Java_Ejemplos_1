@@ -7,6 +7,7 @@ import java.util.Scanner;
 /**
  * @author Alejandro Alonso
  * @version 1.0
+ * @date Septiembre 2023
  * Main es la clase en la que se ejecuta el programa
  */
 public class Main {
