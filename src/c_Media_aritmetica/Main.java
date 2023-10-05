@@ -3,7 +3,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 /**
- * Aplicación que calcula  la media aritmética de tres números
+ * Aplicación que calcula la media aritmética de tres números
  * El usuario aporta dichos números.
  * @author Alejandro Alonso
  * @version 1.0 (Septiembre 2023)

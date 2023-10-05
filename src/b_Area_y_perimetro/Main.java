@@ -10,7 +10,7 @@ package b_Area_y_perimetro;
 import java.util.Scanner;
 
 /**
- * Aplicación que calcula  el área y perímetro de una circunferencia
+ * Aplicación que calcula el área y perímetro de una circunferencia
  * El usuario aporta el radio por teclado.
  * @author Alejandro Alonso
  * @version 1.0 (Septiembre 2023)
