@@ -1,14 +1,10 @@
 package a_Pide_y_muestra_numero;
 import java.util.Scanner;
-/* 
- * Ejercicio que pide un número al usuario por teclado y a continuación lo muestra por pantalla
- */
 
 /**
+ * Aplicación que pide un número al usuario por teclado y a continuación lo muestra por pantalla
  * @author Alejandro Alonso
- * @version 1.0
- * @date Septiembre 2023
- * Main es la clase en la que se ejecuta el programa
+ * @version 1.0  (Septiembre 2023)
  */
 public class Main {
 

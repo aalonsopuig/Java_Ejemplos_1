@@ -1,1 +1,1 @@
-packageSearchIndex = [{"m":"Java_Ejemplos_1","l":"a_Pide_y_muestra_numero"},{"l":"All Packages","u":"allpackages-index.html"}];updateSearchResults();
+packageSearchIndex = [{"l":"a_Pide_y_muestra_numero"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"b_Area_y_perimetro"}];updateSearchResults();
