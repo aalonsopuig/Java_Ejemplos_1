@@ -23,16 +23,16 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		double radio, area, perimetro;
-		
+
 		//Introducción del radio por teclado
 		Scanner teclado =new Scanner(System.in);
 		System.out.print("Radio? (cm) ");
 		radio=teclado.nextDouble();
-		
+
 		//Cálculos
 		area = Math.PI * Math.pow(radio, 2);
 		perimetro = 2 * Math.PI * radio;
-		
+
 		//Muestra resultados
 		System.out.println("Area: " + area + " cm2");
 		System.out.println("Perímetro: " + perimetro + " cm ");

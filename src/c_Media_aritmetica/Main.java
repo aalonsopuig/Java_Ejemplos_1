@@ -16,7 +16,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		double dato1, dato2, dato3, media; //aún no hemos estudiado los arrays, por lo que usamos tres variables
-		
+
 		//Pedimos datos
 		Scanner teclado = new Scanner(System.in);
 		teclado.useLocale(Locale.US);	//Decimales como un punto
@@ -26,10 +26,10 @@ public class Main {
 		dato2 = teclado.nextDouble();
 		System.out.print("Dato 3?: ");
 		dato3 = teclado.nextDouble();
-		
+
 		//Cálculos
 		media = (dato1 + dato2 + dato3)/3.0;
-		
+
 		//Mostramos el resultado
 		System.out.println("Media: " + media);
 
