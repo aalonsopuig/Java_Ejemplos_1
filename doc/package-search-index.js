@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"a_Pide_y_muestra_numero"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"b_Area_y_perimetro"},{"l":"c_Media_aritmetica"}];updateSearchResults();
+packageSearchIndex = [{"l":"a_Pide_y_muestra_numero"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"b_Area_y_perimetro"},{"l":"c_Media_aritmetica"},{"l":"d_if_Vocales_Consonantes"},{"l":"e_for_patron_diamante"},{"l":"f_switch_dias_mes"},{"l":"g_construc_getters_setters_Persona"},{"l":"h_construc_getters_setters_Empleado"},{"l":"i_arraylist_books"}];updateSearchResults();

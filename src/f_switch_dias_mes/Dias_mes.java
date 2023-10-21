@@ -17,7 +17,7 @@ public class Dias_mes {
 	 * Main es el método al que se llama por defecto
 	 * @param args argumentos de entrada, que en este caso no se usan
 	 */
-	public static void main(String[] strings) {
+	public static void main(String[] args) {
 
 		Scanner input = new Scanner(System.in);
 
